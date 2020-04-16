@@ -1,0 +1,2 @@
+# KiCAD
+Projects in KiCAD
